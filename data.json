@@ -1,5 +1,5 @@
 {
-  "budget": 1000,
+  "budget": 900,
   "users": [
     {
       "username": "john_doe",
@@ -24,6 +24,12 @@
       "type": "Amount Received",
       "amount": 100,
       "time": "2024-12-05T14:43:44.490Z"
+    },
+    {
+      "username": "john_doe",
+      "type": "Amount Spent",
+      "amount": 100,
+      "time": "2024-12-05T14:47:47.528Z"
     }
   ]
 }
