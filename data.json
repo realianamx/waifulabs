@@ -1,6 +1,9 @@
 {
-  "budget": 1000,
+  "budget": 900,
   "users": [
-    {"username": "rfmehmood", "password": "12345678"}
+    {
+      "username": "john_doe",
+      "password": "password123"
+    }
   ]
 }
