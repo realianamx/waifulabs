@@ -1,0 +1,6 @@
+{
+  "budget": 1000,
+  "users": [
+    {"username": "john_doe", "password": "password123"}
+  ]
+}
