@@ -1,22 +1,17 @@
 {
-  "budget": 900,
+  "budget": 800,
   "users": [
     {
-      "username": "rfmehmood",
-      "password": "12345678"
-    },
-    {
-      "username": "mudasser",
-      "password": "mudasser123"
-    },
-    {
-      "username": "bilal",
-      "password": "bilal123"
-    },
-    {
-      "username": "awais",
-      "password": "awais123"
+      "username": "john_doe",
+      "password": "password123"
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "username": "rfmehmood",
+      "type": "Amount Spent",
+      "amount": 100,
+      "time": "2024-12-05T15:06:41.249Z"
+    }
+  ]
 }
