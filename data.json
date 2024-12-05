@@ -1,14 +1,29 @@
 {
-  "budget": 1000,
+  "budget": 800,
   "users": [
     {
       "username": "john_doe",
       "password": "password123"
+    }
+  ],
+  "transactions": [
+    {
+      "username": "john_doe",
+      "type": "Amount Spent",
+      "amount": 50,
+      "time": "2024-12-05T12:00:00Z"
     },
     {
       "username": "jane_doe",
-      "password": "password456"
+      "type": "Amount Received",
+      "amount": 100,
+      "time": "2024-12-06T12:00:00Z"
+    },
+    {
+      "username": "john_doe",
+      "type": "Amount Spent",
+      "amount": 100,
+      "time": "2024-12-05T14:41:38.040Z"
     }
-  ],
-  "transactions": []
+  ]
 }
