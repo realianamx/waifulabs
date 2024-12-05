@@ -2,34 +2,21 @@
   "budget": 900,
   "users": [
     {
-      "username": "john_doe",
-      "password": "password123"
+      "username": "rfmehmood",
+      "password": "12345678"
+    }
+    {
+      "username": "mudasser",
+      "password": "mudasser123"
+    }
+    {
+      "username": "bilal",
+      "password": "bilal123"
+    }
+    {
+      "username": "awais",
+      "password": "awais123"
     }
   ],
-  "transactions": [
-    {
-      "username": "john_doe",
-      "type": "Amount Spent",
-      "amount": 50,
-      "time": "2024-12-05T12:00:00Z"
-    },
-    {
-      "username": "jane_doe",
-      "type": "Amount Received",
-      "amount": 100,
-      "time": "2024-12-06T12:00:00Z"
-    },
-    {
-      "username": "john_doe",
-      "type": "Amount Received",
-      "amount": 100,
-      "time": "2024-12-05T14:43:44.490Z"
-    },
-    {
-      "username": "john_doe",
-      "type": "Amount Spent",
-      "amount": 100,
-      "time": "2024-12-05T14:50:05.521Z"
-    }
-  ]
+  "transactions": []
 }
