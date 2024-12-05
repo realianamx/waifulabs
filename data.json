@@ -1,21 +1,3 @@
 {
-  "budget": 900,
-  "users": [
-    {
-      "username": "rfmehmood",
-      "password": "12345678"
-    },
-    {
-      "username": "mudasser",
-      "password": "mudasser123"
-    },
-    {
-      "username": "bilal",
-      "password": "bilal123"
-    },
-    {
-      "username": "awais",
-      "password": "awais123"
-    }
-  ]
+  "budget": 800
 }
