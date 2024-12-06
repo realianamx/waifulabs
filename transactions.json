@@ -16,5 +16,11 @@
     "type": "Amount Spent",
     "amount": 100,
     "time": "2024-12-06T15:15:10.358Z"
+  },
+  {
+    "username": "Awais",
+    "type": "Amount Received",
+    "amount": 1000,
+    "time": "2024-12-06T15:19:45.591Z"
   }
 ]
