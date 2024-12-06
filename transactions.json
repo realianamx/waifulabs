@@ -22,5 +22,11 @@
     "type": "Amount Received",
     "amount": 1000,
     "time": "2024-12-06T15:19:45.591Z"
+  },
+  {
+    "username": "Farhan",
+    "type": "Amount Spent",
+    "amount": 500,
+    "time": "2024-12-06T15:32:34.777Z"
   }
 ]
